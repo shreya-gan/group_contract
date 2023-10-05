@@ -18,3 +18,4 @@ How will we address non-performance regarding these goals, expectations, policie
 Each member should "sign" (you can just type out your name) at the bottom of the submission.
 
 Hana Salehi
+Shreya Gandhi
