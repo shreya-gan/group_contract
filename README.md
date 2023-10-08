@@ -51,4 +51,4 @@ Template project repository for DSCI-100
   
 Each member should "sign" (you can just type out your name) at the bottom of the submission.
 
-Hana Salehi, Shreya Gandhi, Zachary Wirth
+Hana Salehi, Shreya Gandhi, Zachary Wirth, Jacky Zhong
